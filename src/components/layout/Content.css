@@ -1,0 +1,6 @@
+.content{
+    display: flex;
+    flex-grow: 1;
+    background-color: rgba(216, 175, 135, 0.5)    
+}
+

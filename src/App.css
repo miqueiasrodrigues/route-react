@@ -1,0 +1,20 @@
+:root{
+
+    --bg-content-a:#2e3130;
+    --bg-content-b:#5f5246;
+    --bg-content-c:#446368;
+    --bg-content-d:#b17146;
+    --bg-content-e:#d8af87;
+}
+
+.app{
+    display: flex;
+    height: 100vh;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+
+.app h1{
+    font-size: 1.5em;
+    font-weight: 500;
+}
